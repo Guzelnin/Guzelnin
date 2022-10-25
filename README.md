@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Guzel</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 - 📫 How to reach me **akhmadullina.gd@gmail.com**
